@@ -11,7 +11,7 @@
             {
               "id": 1,
               "name": "28-HOMEMADE CHEESE BURGER | DOUBLE PATTY",
-              "prices": "VND 290,000 – VND 440,000",
+              "prices": "VND 290,000",
               "description": "A blend of our four cuts of 120gr beef patty, burger sauce, lettuce, onion, tomato, pickles, American cheese, brioche bun, served with a choice of steak cut fries or skinny fries or sweet potato fries and mixed green salad.",
               "urlImage": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/El-Gaucho-Argentinian-Steakhouse-Restaurant-Hamburger-Patty.jpg",
               "categoryId": 1,
@@ -57,7 +57,7 @@
             {
               "id": 5,
               "name": "07-PROVOLETA | PROVOLETA WITH CHORIZO BEEF",
-              "prices": "VND 280,000 – VND 440,000",
+              "prices": "VND 280,000",
               "description": "Grilled provolone cheese, tomato with a hint of oregano",
               "urlImage": "https://i.pinimg.com/originals/ce/9a/92/ce9a924e130e974997557465f50aa6b1.jpg",
               "categoryId": 2,
@@ -125,7 +125,7 @@
             {
               "id": 10,
               "name": "07-PROVOLETA | 05-CHORIZO BEEF",
-              "prices": "VND 280,000 – VND 440,000",
+              "prices": "VND 280,000",
               "description": "Grilled provolone cheese, tomato with a hint of oregano",
               "urlImage": "https://www.rachaelraymag.com/.image/t_share/MTQ3ODkzNjg3NzAyMDA0ODM4/hard-shell-tacos-with-beef-chorizo-0817-103032302.jpg",
               "categoryId": 2,
