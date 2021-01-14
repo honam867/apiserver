@@ -16,7 +16,8 @@
               "urlImage": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/El-Gaucho-Argentinian-Steakhouse-Restaurant-Hamburger-Patty.jpg",
               "categoryId": 1,
               "menusId": 1,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             },
             {
               "id": 2,
@@ -26,7 +27,8 @@
               "urlImage": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/El-Gaucho-Argentinian-Steakhouse-Restaurant-Hamburger-Patty.jpg",
               "categoryId": 1,
               "menusId": 1,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             },
             {
               "id": 3,
@@ -36,7 +38,8 @@
               "urlImage": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/El-Gaucho-Argentinian-Steakhouse-Restaurant-Hamburger-Patty.jpg",
               "categoryId": 1,
               "menusId": 1,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             }
           ]
         },
@@ -52,7 +55,8 @@
               "urlImage": "https://assets.bonappetit.com/photos/5b9009799915d52d4edc0f73/5:4/w_4165,h_3332,c_limit/basically-pasta-pomodoro-1.jpg",
               "categoryId": 2,
               "menusId": 1,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             },
             {
               "id": 5,
@@ -62,7 +66,8 @@
               "urlImage": "https://i.pinimg.com/originals/ce/9a/92/ce9a924e130e974997557465f50aa6b1.jpg",
               "categoryId": 2,
               "menusId": 1,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             }
           ]
         }
@@ -84,7 +89,8 @@
               "urlImage": "https://hips.hearstapps.com/del.h-cdn.co/assets/18/11/1520876556-asparagus-soup-delish.jpg",
               "categoryId": 1,
               "menusId": 2,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             },
             {
               "id": 7,
@@ -94,7 +100,8 @@
               "urlImage": "https://beyondmeresustenance.com/wp-content/uploads/2018/11/Argentinian-Beef-Stew-6-720x540.jpg",
               "categoryId": 1,
               "menusId": 2,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             },
             {
               "id": 8,
@@ -104,7 +111,8 @@
               "urlImage": "https://www.seriouseats.com/recipes/images/2017/04/20170407-lobster-bisque-vicky-wasik-32.jpg",
               "categoryId": 1,
               "menusId": 2,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             }
           ]
         },
@@ -120,7 +128,8 @@
               "urlImage": "https://www.newmexicanfoodie.com/wp-content/uploads/2019/04/beef-and-red-chile-empanadas.jpg",
               "categoryId": 2,
               "menusId": 2,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             },
             {
               "id": 10,
@@ -130,7 +139,8 @@
               "urlImage": "https://www.rachaelraymag.com/.image/t_share/MTQ3ODkzNjg3NzAyMDA0ODM4/hard-shell-tacos-with-beef-chorizo-0817-103032302.jpg",
               "categoryId": 2,
               "menusId": 2,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             }
           ]
         },
@@ -146,7 +156,8 @@
               "urlImage": "https://hips.hearstapps.com/hmg-prod/images/corn-salad-horizontal-jpg-1523569475.jpg",
               "categoryId": 3,
               "menusId": 2,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             },
             {
               "id": 12,
@@ -156,7 +167,8 @@
               "urlImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2015%2F02%2Fpeppery-greens-salad-with-avocado-chicken-and-tortilla-croutons-FT-RECIPE0319.jpg",
               "categoryId": 3,
               "menusId": 2,
-              "quantity": 0
+              "quantity": 0,
+              "totalPriceOfProduct": 0
             }
           ]
         }
