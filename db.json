@@ -12,7 +12,8 @@
           "price": 290000.0,
           "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
           "additions": [],
-          "subCategory": 1
+          "subCategory": 1,
+          "quantity": 0
         },
         {
           "id": 97,
@@ -21,7 +22,8 @@
           "price": 290000.0,
           "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
           "additions": [],
-          "subCategory": 1
+          "subCategory": 1,
+          "quantity": 0
         },
         {
           "id": 98,
@@ -30,7 +32,8 @@
           "price": 290000.0,
           "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
           "additions": [],
-          "subCategory": 1
+          "subCategory": 1,
+          "quantity": 0
         }
       ]
     },
@@ -52,7 +55,8 @@
           "price": 180000.0,
           "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
           "additions": [],
-          "subCategory": 21
+          "subCategory": 21,
+          "quantity": 0
         },
         {
           "id": 100,
@@ -61,7 +65,8 @@
           "price": 210000.0,
           "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
           "additions": [],
-          "subCategory": 21
+          "subCategory": 21,
+          "quantity": 0
         },
         {
           "id": 101,
@@ -70,7 +75,8 @@
           "price": 210000.0,
           "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
           "additions": [],
-          "subCategory": 21
+          "subCategory": 21,
+          "quantity": 0
         },
         {
           "id": 102,
@@ -92,7 +98,8 @@
               ]
             }
           ],
-          "subCategory": 21
+          "subCategory": 21,
+          "quantity": 0
         },
         {
           "id": 103,
@@ -101,7 +108,8 @@
           "price": 290000.0,
           "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
           "additions": [],
-          "subCategory": 21
+          "subCategory": 21,
+          "quantity": 0
         }
       ]
     }
