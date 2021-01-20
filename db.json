@@ -1,107 +1,109 @@
-[
-  {
-    "id": 1,
-    "name": "Soup",
-    "categoryId": 1,
-    "products": [
-      {
-        "id": 96,
-        "name": "GREEN ASPARAGUS SOUP",
-        "description": "",
-        "price": 290000.0,
-        "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
-        "additions": [],
-        "subCategory": 1
-      },
-      {
-        "id": 97,
-        "name": "ARGENTINIAN BEEF FILET SOUP",
-        "description": "",
-        "price": 290000.0,
-        "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
-        "additions": [],
-        "subCategory": 1
-      },
-      {
-        "id": 98,
-        "name": "LOBSTER AND CRAB MEAT SOUP",
-        "description": "",
-        "price": 290000.0,
-        "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
-        "additions": [],
-        "subCategory": 1
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "name": "Salads",
-    "categoryId": 1,
-    "products": []
-  },
-  {
-    "id": 21,
-    "name": "Starters",
-    "categoryId": 1,
-    "products": [
-      {
-        "id": 99,
-        "name": "BEEF EMPANADA",
-        "description": "",
-        "price": 180000.0,
-        "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
-        "additions": [],
-        "subCategory": 21
-      },
-      {
-        "id": 100,
-        "name": "CHORIZO BEEF",
-        "description": "Homemade argentinian spiced sausage",
-        "price": 210000.0,
-        "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
-        "additions": [],
-        "subCategory": 21
-      },
-      {
-        "id": 101,
-        "name": "SALCHICHA",
-        "description": "Homemade argentinian spicy sausage",
-        "price": 210000.0,
-        "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
-        "additions": [],
-        "subCategory": 21
-      },
-      {
-        "id": 102,
-        "name": "PROVOLETA",
-        "description": "Grilled provolone cheese, tomato with a hint of oregano",
-        "price": 280000.0,
-        "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
-        "additions": [
-          {
-            "isMultipleSelect": false,
-            "isRequired": true,
-            "title": "Side dish",
-            "items": [
-              {
-                "id": 1,
-                "name": "CHORIZO BEEF",
-                "price": 160000.0
-              }
-            ]
-          }
-        ],
-        "subCategory": 21
-      },
-      {
-        "id": 103,
-        "name": "TACOS",
-        "description": "Lean homemade minced beef, crispy taco shells, avocado, tomato, chives, coriander (2PCS PER SERVING)",
-        "price": 290000.0,
-        "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
-        "additions": [],
-        "subCategory": 21
-      }
-    ]
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Soup",
+      "categoryId": 1,
+      "products": [
+        {
+          "id": 96,
+          "name": "GREEN ASPARAGUS SOUP",
+          "description": "",
+          "price": 290000.0,
+          "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
+          "additions": [],
+          "subCategory": 1
+        },
+        {
+          "id": 97,
+          "name": "ARGENTINIAN BEEF FILET SOUP",
+          "description": "",
+          "price": 290000.0,
+          "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
+          "additions": [],
+          "subCategory": 1
+        },
+        {
+          "id": 98,
+          "name": "LOBSTER AND CRAB MEAT SOUP",
+          "description": "",
+          "price": 290000.0,
+          "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
+          "additions": [],
+          "subCategory": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Salads",
+      "categoryId": 1,
+      "products": []
+    },
+    {
+      "id": 21,
+      "name": "Starters",
+      "categoryId": 1,
+      "products": [
+        {
+          "id": 99,
+          "name": "BEEF EMPANADA",
+          "description": "",
+          "price": 180000.0,
+          "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
+          "additions": [],
+          "subCategory": 21
+        },
+        {
+          "id": 100,
+          "name": "CHORIZO BEEF",
+          "description": "Homemade argentinian spiced sausage",
+          "price": 210000.0,
+          "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
+          "additions": [],
+          "subCategory": 21
+        },
+        {
+          "id": 101,
+          "name": "SALCHICHA",
+          "description": "Homemade argentinian spicy sausage",
+          "price": 210000.0,
+          "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
+          "additions": [],
+          "subCategory": 21
+        },
+        {
+          "id": 102,
+          "name": "PROVOLETA",
+          "description": "Grilled provolone cheese, tomato with a hint of oregano",
+          "price": 280000.0,
+          "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
+          "additions": [
+            {
+              "isMultipleSelect": false,
+              "isRequired": true,
+              "title": "Side dish",
+              "items": [
+                {
+                  "id": 1,
+                  "name": "CHORIZO BEEF",
+                  "price": 160000.0
+                }
+              ]
+            }
+          ],
+          "subCategory": 21
+        },
+        {
+          "id": 103,
+          "name": "TACOS",
+          "description": "Lean homemade minced beef, crispy taco shells, avocado, tomato, chives, coriander (2PCS PER SERVING)",
+          "price": 290000.0,
+          "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
+          "additions": [],
+          "subCategory": 21
+        }
+      ]
+    }
+  ]
+}
