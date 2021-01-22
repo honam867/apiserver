@@ -2,26 +2,103 @@
   "category": [
     {
       "id": 1,
+      "name": "Soups~Starters-Salads"
+    },
+    {
+      "id": 2,
       "name": "Burgers~Pastas"
+    },
+    {
+      "id": 3,
+      "name": "Beef~Steaks"
+    },
+    {
+      "id": 4,
+      "name": "Lamb~Pork~Chiken~Fish"
     }
   ],
   "subcategory": [
     {
       "id": 1,
-      "name": "El Gaucho Burger",
+      "name": "Soup",
       "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Starters",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Salads",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "El Gaucho Burger",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "name": "Pastas",
+      "categoryId": 2
     }
   ],
   "products": [
     {
       "id": 1,
       "subcategoryId": 1,
-      "name": "28-HOMEMADE CHEESE BURGER | DOUBLE PATTY",
+      "name": "01-GREEN ASPARAGUS SOUP",
       "price": 290000,
       "description": "abcd",
       "imageUrl": "",
       "quantity": 0,
-      "totalPriceOfProduct": 0
+      "totalPriceOfProduct": 0,
+      "additions": []
+    },
+    {
+      "id": 2,
+      "subcategoryId": 2,
+      "name": "04-BEEF EMPANADA",
+      "price": 290000,
+      "description": "abcd",
+      "imageUrl": "",
+      "quantity": 0,
+      "totalPriceOfProduct": 0,
+      "additions": []
+    },
+    {
+      "id": 3,
+      "subcategoryId": 3,
+      "name": "18-ASPARAGUS WITH PARMESAN AND OLIVE OIL",
+      "price": 290000,
+      "description": "abcd",
+      "imageUrl": "",
+      "quantity": 0,
+      "totalPriceOfProduct": 0,
+      "additions": []
+    },
+    {
+      "id": 4,
+      "subcategoryId": 4,
+      "name": "28-BURGER WITH FOIE GRAS",
+      "price": 290000,
+      "description": "abcd",
+      "imageUrl": "",
+      "quantity": 0,
+      "totalPriceOfProduct": 0,
+      "additions": []
+    },
+    {
+      "id": 5,
+      "subcategoryId": 5,
+      "name": "33-SPAGHETTI POMODORO",
+      "price": 290000,
+      "description": "abcd",
+      "imageUrl": "",
+      "quantity": 0,
+      "totalPriceOfProduct": 0,
+      "additions": []
     }
   ]
 }
