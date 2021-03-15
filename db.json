@@ -11,7 +11,7 @@
       "totalPriceOfProduct": 0,
       "additions": [],
       "menu": {
-        "id": 8,
+        "id": 2,
         "areaName": "Đà Nẵng",
         "areaId": 8,
         "country": 0
@@ -28,7 +28,7 @@
       "totalPriceOfProduct": 0,
       "additions": [],
       "menu": {
-        "id": 8,
+        "id": 2,
         "areaName": "Đà Nẵng",
         "areaId": 8,
         "country": 0
@@ -45,7 +45,7 @@
       "totalPriceOfProduct": 0,
       "additions": [],
       "menu": {
-        "id": 7,
+        "id": 1,
         "areaName": "Hồ Chí Minh",
         "areaId": 7,
         "country": 0
@@ -62,7 +62,7 @@
       "totalPriceOfProduct": 0,
       "additions": [],
       "menu": {
-        "id": 7,
+        "id": 1,
         "areaName": "Hồ Chí Minh",
         "areaId": 7,
         "country": 0
@@ -79,7 +79,7 @@
       "totalPriceOfProduct": 0,
       "additions": [],
       "menu": {
-        "id": 8,
+        "id": 2,
         "areaName": "Đà Nẵng",
         "areaId": 8,
         "country": 0
@@ -99,7 +99,7 @@
       "menuId": 8,
       "additions": [],
       "menu": {
-        "id": 8,
+        "id": 2,
         "areaName": "Đà Nẵng",
         "areaId": 8,
         "country": 0
@@ -119,7 +119,7 @@
       "menuId": 8,
       "additions": [],
       "menu": {
-        "id": 8,
+        "id": 2,
         "areaName": "Đà Nẵng",
         "areaId": 8,
         "country": 0
@@ -139,8 +139,28 @@
       "menuId": 7,
       "additions": [],
       "menu": {
-        "id": 7,
+        "id": 1,
         "areaName": "Hồ Chí Minh",
+        "areaId": 7,
+        "country": 0
+      }
+    },
+    {
+      "id": 187,
+      "name": "GREEN ASPARAGUS SOUP",
+      "description": "",
+      "price": 290000.0,
+      "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/40-Lapostolle-Clos-Apalta-2011-100x100.jpg",
+      "currency": null,
+      "isAvailable": true,
+      "priority": 0,
+      "subCategory": 0,
+      "category": 0,
+      "menuId": 7,
+      "additions": [],
+      "menu": {
+        "id": 1,
+        "areaName": "Thành phố Hồ Chí Minh",
         "areaId": 7,
         "country": 0
       }
