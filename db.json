@@ -11,9 +11,9 @@
       "totalPriceOfProduct": 0,
       "additions": [],
       "menu": {
-        "id": 2,
-        "areaName": "Đà Nẵng",
-        "areaId": 8,
+        "id": 1,
+        "areaName": "Hồ Chí Minh",
+        "areaId": 7,
         "country": 0
       }
     },
@@ -28,9 +28,9 @@
       "totalPriceOfProduct": 0,
       "additions": [],
       "menu": {
-        "id": 2,
-        "areaName": "Đà Nẵng",
-        "areaId": 8,
+        "id": 1,
+        "areaName": "Hồ Chí Minh",
+        "areaId": 7,
         "country": 0
       }
     },
