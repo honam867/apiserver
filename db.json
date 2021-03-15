@@ -106,49 +106,6 @@
       "areaId": 8
     },
     {
-      "id": 28,
-      "name": "taittinger brut reserve",
-      "description": "Brut Réserve Taittinger is one of the last great Champagne Houses to remain independent and is owned and actively managed by the family named on the label. The family are guardians of Taittinger’s style quality and integrity. The hallmark of their fine Champagnes is the high proportion of Chardonnay used in their winemaking which is key, in the Champagne region, for producing wines of great elegance and finesse. Additionally, with its vineyard ownership of 288 ha (one of the largest in Champagne}, Taittinger can guarantee a flawless signature, and wines heralded worldwide for their consistent quality. Our signature cuvée, Taittinger Brut Réserve, is assembled from more than 35 crus and incorporates 40% Chardonnay – this high level is seldom offered in a non-vintage Champagne. Distinguished by a delicate nose marked by subtle brioche notes, it has a palate of considerable depth and balance with hints of honey and fresh fruit with a long, fresh finish.",
-      "price": 2100000.0,
-      "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/73-MARCHESI-ANTINORI-“SOLAIA”-100x100.jpg",
-      "currency": null,
-      "isAvailable": true,
-      "priority": 0,
-      "subCategory": 16,
-      "category": 5,
-      "menuId": 8,
-      "additions": [],
-      "menu": {
-        "id": 8,
-        "areaName": "Đà Nẵng",
-        "areaId": 8,
-        "country": 0
-      },
-      "areaId": 8
-    },
-
-    {
-      "id": 56,
-      "name": "dom perignon",
-      "description": "Dom Pérignon (1638–1715) was a monk and cellar master at the Benedictine abbey in Hautvillers. He pioneered a number of winemaking techniques around 1670—being the first to blend grapes in such a way as to improve the quality of wines, balance one element with another in order to make a better whole, and deal with a number of their imperfections; perfecting the art of producing clear white wines from black grapes by clever manipulation of the presses.Dom Perignon has an intense, full and radiant bouquet with notes of honeysuckle, orange coloured fruits and hints of iodine sensations. The creamy chewiness characterizing the vintage is channelled in a direction that is edgy yet embracing with a wave of aromatic persistence. Smoky, biting and full energy finish balances it all out.The Dom Perignon pairs very well with sushi, scallops, oysters, white fish, white meat.",
-      "price": 12000000.0,
-      "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/Kaiken-Reserva-malbec-100x100.jpg",
-      "currency": null,
-      "isAvailable": true,
-      "priority": 0,
-      "subCategory": 16,
-      "category": 5,
-      "menuId": 8,
-      "additions": [],
-      "menu": {
-        "id": 8,
-        "areaName": "Đà Nẵng",
-        "areaId": 8,
-        "country": 0
-      },
-      "areaId": 8
-    },
-    {
       "id": 57,
       "name": "bollinger special cuvee brut",
       "description": "To the eye: A golden colour, distinctive of black grape varieties; very ne bubbles. To the nose: A beautiful aromatic complexity; ripe fruit and spicy aromas; hints of roasted apples, apple compote and peaches. On the palate: A subtle combination of structure, length and vivacity; bubbles like velvet; pear, brioche and spicy aromas, notes of fresh walnut.This wine goes very well with any fish, especially sushi and sashimi. Seafood: shrimp, prawn, crayfish, grilled lobster. Poultry and white meat. Parmesan, good cured ham.",
@@ -191,27 +148,6 @@
       "areaId": 8
     },
 
-    {
-      "id": 179,
-      "name": "dom perignon",
-      "description": "Dom Pérignon (1638–1715) was a monk and cellar master at the Benedictine abbey in Hautvillers. He pioneered a number of winemaking techniques around 1670—being the first to blend grapes in such a way as to improve the quality of wines, balance one element with another in order to make a better whole, and deal with a number of their imperfections; perfecting the art of producing clear white wines from black grapes by clever manipulation of the presses.Dom Perignon has an intense, full and radiant bouquet with notes of honeysuckle, orange coloured fruits and hints of iodine sensations. The creamy chewiness characterizing the vintage is channelled in a direction that is edgy yet embracing with a wave of aromatic persistence. Smoky, biting and full energy finish balances it all out.The Dom Perignon pairs very well with sushi, scallops, oysters, white fish, white meat.",
-      "price": 12000000.0,
-      "imageUrl": "https://vn.elgaucho.asia/wp-content/uploads/2020/04/Kaiken-Reserva-malbec-100x100.jpg",
-      "currency": null,
-      "isAvailable": true,
-      "priority": 0,
-      "subCategory": 16,
-      "category": 5,
-      "menuId": 7,
-      "additions": [],
-      "menu": {
-        "id": 7,
-        "areaName": "Hồ Chí Minh",
-        "areaId": 7,
-        "country": 0
-      },
-      "areaId": 7
-    },
     {
       "id": 180,
       "name": "bollinger special cuvee brut",
